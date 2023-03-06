@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<config>
+    <UnitySDK>/Users/caleb.valerian/Documents/SDK Documents/BFGSDKPub/RawDocs</UnitySDK>
+    <UnityDocs>/Users/caleb.valerian/Documents/SDK Documents/BFGSDKPub/Exports~/docs/html</UnityDocs>
+    <AndroidSDK>/Users/caleb.valerian/Documents/SDK Documents/core-android-sdk/bfg_internal/docs</AndroidSDK>
+    <AndroidDocs>/Users/caleb.valerian/Documents/SDK Documents/core-android-sdk/docs/html</AndroidDocs>
+    <iOSSDK>/Users/caleb.valerian/Documents/SDK Documents/core-ios-sdk/bfg_internal/docs</iOSSDK>
+    <iOSDocs>/Users/caleb.valerian/Documents/SDK Documents/core-ios-sdk/docs/html</iOSDocs>
+</config>
